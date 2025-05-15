@@ -5,7 +5,7 @@ Nice To Meet U! You are my visitor No.<br>
 
 - Highly motivated graduate with 2 years of professional experience in developing web services and implementing algorithms.
 - Proficient in multiple programming languages including C/C++, Java, Python, and JavaScript.
-- I have a strong grasp of software engineering principles and consistently deliver efficient, scalable solutions. 
+- I have a strong grasp of software engineering principles and consistently delivering efficient, scalable solutions. 
  
 - Skilled in cloud technologies and web development.
 <br><br>
