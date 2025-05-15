@@ -1,5 +1,8 @@
 Nice To Meet U! You are my visitor No.<br>
-   ![Profile Views](https://komarev.com/ghpvc/?username=Hyperkongj)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Hyperkongj)
+
+  ![Static Badge](https://img.shields.io/badge/Texas%20State%20University-Red?style=for-the-badge&logo=academia&logoColor=8C1D40&labelColor=F1C40F&color=8C1D40)
+
 - Highly motivated graduate student with 2 years of professional experience in developing  web services and implementing algorithms.
 - Proficient in multiple programming languages including C/C++, Java, Python, and JavaScript.
 - I have a strong grasp of software engineering principles and consistently deliver efficient, scalable solutions. 
