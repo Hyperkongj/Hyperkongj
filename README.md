@@ -12,7 +12,7 @@ Nice To Meet U! You are my visitor No.<br>
 
 🚀 More about me <br>
 - 👋 Hi, I’m @ Mohit Sharma
-- 📚 I'm currently pursuing my MS in Computer Science at Texas State University
+- 📚 MS in Computer Science at Texas State University
 - 👀 I'm interested in AI-powered web services, algorithm design, and cloud computing
 - 🌱 I’m currently learning Fullstack Development, Machine Learning and Algorithms
 - 📫 How to reach me: https://www.linkedin.com/in/mohit-sharma05/
