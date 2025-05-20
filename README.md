@@ -1,5 +1,5 @@
-Nice To Meet U! You are my visitor No.<br>
-  ![Profile Views](https://komarev.com/ghpvc/?username=Hyperkongj)
+![Nice To Meet U! You are visitor No.](https://komarev.com/ghpvc/?username=Hyperkongj&label=Nice%20To%20Meet%20U!%20You%20are%20visitor%20No.&color=blue)
+
 
   ![Static Badge](https://img.shields.io/badge/Texas%20State%20University-Red?style=for-the-badge&logo=academia&logoColor=8C1D40&labelColor=F1C40F&color=8C1D40)
 
