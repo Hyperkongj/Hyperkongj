@@ -1,4 +1,4 @@
-# 👨‍💻 Mohi t Sharma
+# 👨‍💻 Mohit Sharma
 ![Nice To Meet U! You are visitor No.](https://komarev.com/ghpvc/?username=Hyperkongj&label=Nice%20To%20Meet%20U!%20You%20are%20visitor%20No.&color=blue)
 
 
