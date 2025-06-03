@@ -16,7 +16,7 @@
 - 📚 MS in Computer Science at Texas State University
 - 👀 I'm interested in AI-powered web services, algorithm design, and cloud computing
 - 🌱 I’m currently learning Fullstack Development, Machine Learning and Algorithms
-- 📫 How to reach me: https://www.linkedin.com/in/mohit-sharma05/
+- 📫 How to  reach me: https://www.linkedin.com/in/mohit-sharma05/
 - 📬 Reach me at: [mo.sharma.dev@gmail.com](mailto:mo.sharma.dev@gmail.com)
 - 💼 Actively seeking full-time roles in **Software Development / AI / Systems Engineering**
 
