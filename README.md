@@ -4,7 +4,7 @@
 
   ![Static Badge](https://img.shields.io/badge/Texas%20State%20University-Red?style=for-the-badge&logo=academia&logoColor=8C1D40&labelColor=F1C40F&color=8C1D40)
 
-- Highly  motivated graduate with 2 years of professional experience in developing web services and implementing algorithms.
+- Highly  motivated graduate with 2 years of professional experience  in developing web services and implementing algorithms.
 - Proficient in multiple programming languages including C/C++, Java, Python, and JavaScript.
 - I have a strong grasp of software engineering principles and consistently delivering efficient, scalable solutions. 
  
