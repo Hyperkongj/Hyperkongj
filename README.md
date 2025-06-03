@@ -12,7 +12,7 @@
 <br><br>
 
 🚀 More about me <br>
-- 👋 Hi, I’m @ Mohit Sharma
+- 👋 Hi,  I’m @ Mohit Sharma
 - 📚 MS in Computer Science at Texas State University
 - 👀 I'm interested in AI-powered web services, algorithm design, and cloud computing
 - 🌱 I’m currently learning Fullstack Development, Machine Learning and Algorithms
